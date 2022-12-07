@@ -1,0 +1,5 @@
+// インポートの前にデフォルトの変数をオーバーライドする
+$body-bg: #000;
+
+// Bootstrapとそのデフォルト変数をインポートする
+@import '~bootstrap/scss/bootstrap.scss';
